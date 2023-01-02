@@ -1,0 +1,27 @@
+Enter path :: This is a valid path
+This is directory /home/osboxes/Desktop/FilesHere
+New ones
+This is a Regular file /home/osboxes/Desktop/somewords.txt
+Hello, this is Krishna Pranav Kuchimanchi
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+
+This is just a raw text file, which I have created on the desktop to write down
+ideas and thoughts, but it seems like I haven't written anything here yet.
+Number of files : 1 and Number of Directories: 1

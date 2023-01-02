@@ -1,0 +1,782 @@
+    1  ls
+    2  ls -l
+    3  ls -al
+    4  ls
+    5  clear
+    6  ls
+    7  ls -l
+    8  clear
+    9  ls
+   10  cd Documents
+   11  ls
+   12  mkdir Day1cw
+   13  ls
+   14  mkdir Day2cw
+   15  ls
+   16  mkdir Day3cw
+   17  ls
+   18  ls -l
+   19  clear
+   20  alias list ls
+   21  alias list `ls`
+   22  alias list 'ls'
+   23  alias listl "ls -l"
+   24  alias listl "ls -l"clear
+   25  clear
+   26  unalias listl
+   27  clear
+   28  cd /
+   29  sudo apt get update
+   30  sudo apt-get update
+   31  clear
+   32  sudo apt-get vim install
+   33  sudo apt-get install vim
+   34  clear
+   35  vim
+   36  clear
+   37  stat filepath
+   38  ls -l
+   39  clear
+   40  cd ..
+   41  ls
+   42  cd Documents
+   43  ls -l
+   44  cd sunbeamclasswork
+   45  clear
+   46  ls -l
+   47  stat filepath
+   48  stat sunbeamclasswork
+   49  cd ..
+   50  stat sunbeamclasswork
+   51  df -h
+   52  ls -l
+   53  stat Desktop
+   54  history
+   55  clear
+   56  echo $SHELL
+   57  cd /
+   58  ls
+   59  cd home
+   60  ls
+   61  cd osboxes
+   62  ls
+   63  cd Documents
+   64  ls
+   65  cd sunbeamclasswork
+   66  ls
+   67  cd Day1cw
+   68  ls
+   69  echo $SHELL
+   70  date
+   71  sudo apt -get install ncal
+   72  sudo apt-get install ncal
+   73  sudo apt-get install nval
+   74  sudo apt-get install ncal
+   75  cal
+   76  date
+   77  man cal
+   78  pwd
+   79  proc
+   80  nproc
+   81  proj
+   82  ls
+   83  mkdir dmc
+   84  cd dmc
+   85  cd ..
+   86  ls
+   87  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+   88  ls
+   89  mkdir one two three
+   90  ls
+   91  rmdir three/
+   92  ls
+   93  touch f.txt
+   94  touch f1.txt f2.txt
+   95  ls
+   96  cp f1.txt one
+   97  cd one
+   98  ls
+   99  cd..
+  100  cd ..
+  101  ls
+  102  cp f1.txt one/copyf1.txt
+  103  ls
+  104  cd one
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  109  cd ..
+  110  ls
+  111  cd ..
+  112  ls
+  113  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  114  ls
+  115  cd ..
+  116  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  117  cd ..
+  118  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  119  cd ..
+  120  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  121  cd ..
+  122  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  123  cd ..
+  124  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  125  cd ..
+  126  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  127  cd ..
+  128  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  129  cd ..
+  130  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  131  cd ..
+  132  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  133  cd ..
+  134  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  135  ls
+  136  cd two
+  137  ls
+  138  cd ..
+  139  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  140  ls
+  141  cd one
+  142  ls
+  143  cat f1.txt
+  144  ls
+  145  cat > f1.txt
+  146  f1.txt
+  147  ls
+  148  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  149  ls
+  150  mv f1.txt two/
+  151  ls
+  152  cd two
+  153  ls
+  154  cd ..
+  155  ls
+  156  mv d.txt file.txt
+  157  mv f.txt file.txt
+  158  ls
+  159  cd two
+  160  ls
+  161  cd ..
+  162  cp -r one copy
+  163  ls
+  164  rmdir copy/
+  165  rmdir -r copy/
+  166  rm -r copy/
+  167  ls
+  168  cp -r one copyofone
+  169  ls
+  170  cp -r 
+  171  cat
+  172  LS
+  173  ls
+  174  cd ..
+  175  ls
+  176  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  177  ls
+  178  cat f2.txt
+  179  cat file.txt f2.txt
+  180  ls
+  181  cat -E dmc
+  182  cd ..
+  183  ls
+  184  cat -E dmc
+  185  ls
+  186  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  187  ls
+  188  cd one
+  189  cd ..
+  190  cd two
+  191  ls
+  192  cat -E f1.txt
+  193  cat > f1.txt
+  194  cat f1.txt
+  195  cat -E f1.txt
+  196  cat -n f1.txt
+  197  cp f1.txt copyf1.txt
+  198  ls
+  199  cat >> f1.txt
+  200  cat f1.txt
+  201  cp f1.txt newcopy1f1.txt
+  202  LS
+  203  ls
+  204  cat copyf1.txt
+  205  cat f1.txt
+  206  cat > f1.txt
+  207  cat f1.txt
+  208  ls
+  209  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  210  ls
+  211  cd one
+  212  ls
+  213  cd ..
+  214  cd two
+  215  ls
+  216  cd ..
+  217  cp -r two twocopy1
+  218  ls
+  219  mkdir historyfiledir
+  220  ls
+  221  touch empty.txt
+  222  ls
+  223  mv empty.txt historyfiledir
+  224  ls
+  225  cd historyfiledir
+  226  l
+  227  ls
+  228  l
+  229  s
+  230  l
+  231  ls
+  232  history > ~/history.txt
+  233  ls
+  234  history
+  235  history -w
+  236  cd /
+  237  ls
+  238  cd home
+  239  ls
+  240  cd osboxes
+  241  ls
+  242  cd Documents
+  243  ls
+  244  cd sunbeamclasswork
+  245  ls
+  246  cd Day1cw
+  247  ls
+  248  echo $SHELL
+  249  date
+  250  sudo apt -get install ncal
+  251  sudo apt-get install ncal
+  252  sudo apt-get install nval
+  253  sudo apt-get install ncal
+  254  cal
+  255  date
+  256  man cal
+  257  pwd
+  258  proc
+  259  nproc
+  260  proj
+  261  ls
+  262  mkdir dmc
+  263  cd dmc
+  264  cd ..
+  265  ls
+  266  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  267  ls
+  268  mkdir one two three
+  269  ls
+  270  rmdir three/
+  271  ls
+  272  touch f.txt
+  273  touch f1.txt f2.txt
+  274  ls
+  275  cp f1.txt one
+  276  cd one
+  277  ls
+  278  cd..
+  279  cd ..
+  280  ls
+  281  cp f1.txt one/copyf1.txt
+  282  ls
+  283  cd one
+  284  ls
+  285  cd ..
+  286  ls
+  287  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  288  cd ..
+  289  ls
+  290  cd ..
+  291  ls
+  292  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  293  ls
+  294  cd ..
+  295  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  296  cd ..
+  297  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  298  cd ..
+  299  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  300  cd ..
+  301  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  302  cd ..
+  303  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  304  cd ..
+  305  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  306  cd ..
+  307  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  308  cd ..
+  309  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  310  cd ..
+  311  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  312  cd ..
+  313  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  314  ls
+  315  cd two
+  316  ls
+  317  cd ..
+  318  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  319  ls
+  320  cd one
+  321  ls
+  322  cat f1.txt
+  323  ls
+  324  cat > f1.txt
+  325  f1.txt
+  326  ls
+  327  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  328  ls
+  329  mv f1.txt two/
+  330  ls
+  331  cd two
+  332  ls
+  333  cd ..
+  334  ls
+  335  mv d.txt file.txt
+  336  mv f.txt file.txt
+  337  ls
+  338  cd two
+  339  ls
+  340  cd ..
+  341  cp -r one copy
+  342  ls
+  343  rmdir copy/
+  344  rmdir -r copy/
+  345  rm -r copy/
+  346  ls
+  347  cp -r one copyofone
+  348  ls
+  349  cp -r 
+  350  cat
+  351  LS
+  352  ls
+  353  cd ..
+  354  ls
+  355  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  356  ls
+  357  cat f2.txt
+  358  cat file.txt f2.txt
+  359  ls
+  360  cat -E dmc
+  361  cd ..
+  362  ls
+  363  cat -E dmc
+  364  ls
+  365  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  366  ls
+  367  cd one
+  368  cd ..
+  369  cd two
+  370  ls
+  371  cat -E f1.txt
+  372  cat > f1.txt
+  373  cat f1.txt
+  374  cat -E f1.txt
+  375  cat -n f1.txt
+  376  cp f1.txt copyf1.txt
+  377  ls
+  378  cat >> f1.txt
+  379  cat f1.txt
+  380  cp f1.txt newcopy1f1.txt
+  381  LS
+  382  ls
+  383  cat copyf1.txt
+  384  cat f1.txt
+  385  cat > f1.txt
+  386  cat f1.txt
+  387  ls
+  388  cd /home/osboxes/Documents/sunbeamclasswork/Day1cw/dmc
+  389  ls
+  390  cd one
+  391  ls
+  392  cd ..
+  393  cd two
+  394  ls
+  395  cd ..
+  396  cp -r two twocopy1
+  397  ls
+  398  mkdir historyfiledir
+  399  ls
+  400  touch empty.txt
+  401  ls
+  402  mv empty.txt historyfiledir
+  403  ls
+  404  cd historyfiledir
+  405  l
+  406  ls
+  407  l
+  408  s
+  409  l
+  410  ls
+  411  history > ~/history.txt
+  412  ls
+  413  history
+  414  history -w
+  415  history > historysaved1.txt
+  416  ls
+  417  cat historysaved1.txt
+  418  ls
+  419  exit
+  420  ls
+  421  cd /
+  422  ls
+  423  cd home
+  424  ls
+  425  cd osboxes
+  426  ls
+  427  cd ..
+  428  cd home
+  429  cd osboxes
+  430  cd Documents
+  431  ls
+  432  vim ~./vimrc
+  433  ls
+  434  vim ~/.vimrc
+  435  ls
+  436  vim .bashrc
+  437  cd /
+  438  cat ~/.vimrc
+  439  ls
+  440  cd bin
+  441  ls
+  442  cd ..
+  443  ls
+  444  ls dev
+  445  ls
+  446  ls boot
+  447  cd /
+  448  ls
+  449  cd home
+  450  ls
+  451  cd osboxes
+  452  ls
+  453  cd Documents
+  454  ls
+  455  vim ~/.vimrc
+  456  ls
+  457  vim example.txt
+  458  ls
+  459  clear
+  460  ls
+  461  cd Documents
+  462  ls
+  463  cd sunbeamclasswork
+  464  ls
+  465  cd Day1cw
+  466  cd dmc
+  467  ls
+  468  cat >> f2.txt
+  469  cat f2.txt
+  470  cat -b f2.txt
+  471  cat -E f2.txt
+  472  cat >> f2.txt
+  473  cat -s f2.txt
+  474  ls
+  475  cat f2.txt file.txt
+  476  cat -E f2.txt file.txt
+  477  cat -n f2.txt file.txt
+  478  ls
+  479  mkdir exmple1
+  480  ls
+  481  cp copyofone exmple1
+  482  cp -r copyofone exmple1
+  483  ls
+  484  cd exmple1
+  485  ls
+  486  cd ..
+  487  ls
+  488  cd ..
+  489  ls
+  490  tty
+  491  stty
+  492  whoami
+  493  who
+  494  ls
+  495  cd dmc
+  496  ls
+  497  ls -l
+  498  cd +x f2.txt
+  499  chmod +x f2.txt
+  500  ls -l
+  501  chmod -x f2.txt
+  502  chmod 0000 twocopy1
+  503  ls -l
+  504  chmod 0233 twocopy1
+  505  ls
+  506  ls -l
+  507  chmod 0652 twocopy1
+  508  ls -l
+  509  chmod 0666 twocopy1
+  510  ls
+  511  ls -l
+  512  chmod 0775 twocopy1
+  513  ls
+  514  ls -l
+  515  rev f2.txt
+  516  tac f2.txt
+  517  sort f2.txt
+  518  sort f2.txt | uniq
+  519  history > hs2.txt
+  520  ls
+  521  tac hs2.txt
+  522  ls
+  523  cd ..
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd Day2cw
+  528  touch b.txt
+  529  tee > b.txt
+  530  tee >> b.txt
+  531  tee b.txt
+  532  cat b.txt
+  533  cat >> b.txt
+  534  cat b.txt
+  535  ls
+  536  touch ano.txt
+  537  vi ano.txt
+  538  cat ano.txt
+  539  vi ano.txt
+  540  touch exas.txt
+  541  vi exas.txt
+  542  vim .bashrc
+  543  vim ~/.vimrc
+  544  ls
+  545  cat -n numbers.txt
+  546  cat -n ano.txt
+  547  head -5 ano.txt
+  548  tail -7 ano.txt
+  549  clear
+  550  ls
+  551  cat -n ano.txt
+  552  head -5 ano.txt
+  553  tail -11 ano.txt
+  554  tail -40 ano.txt
+  555  tail -409 ano.txt
+  556  rev ano.txt
+  557  tac ano.txt
+  558  sort ano.txt
+  559  sort -n ano.txt
+  560  uniq ano.txt
+  561  vim ~/.vimrc
+  562  touch nf.txt | vim
+  563  touch nf.txt | vimcacaca
+  564  ls
+  565  vim ~/.vimrc
+  566  cd Documents/sunbeamclasswork
+  567  ls
+  568  cd 2
+  569  cd Day2cw/
+  570  ls
+  571  vim anoe1.txt
+  572  cat nf.txt
+  573  cat anoe1.txt
+  574  head -5 anoe1.txt
+  575  tail -2 anoe1.txt
+  576  rev anoe1.txt
+  577  tac anoe1.txt
+  578  sort -n anoe1.txt
+  579  cat anoe1.txt
+  580  sort -n anoe1.txt > nf.txt
+  581  ls
+  582  sort -n anoe1.txt > nf2.txt
+  583  ls
+  584  cat nf2.txt
+  585  wc < nf2.txt
+  586  ls -x
+  587  ls -w
+  588  ls -W
+  589  ls -w 2 > err.txt
+  590  ls
+  591  cat err.txt
+  592  ls -w -5 > err.txt
+  593  ls -w 5 > err.txt
+  594  cat err.txt
+  595  ls -x
+  596  showuname
+  597  test_ar qwe
+  598  test_ar bitchhhhhhhhhhhhhhh
+  599  ls
+  600  touch test.txt
+  601  ls
+  602  ls -l
+  603  chadarmod test.txt
+  604  ls -l
+  605  cchc test.txt
+  606  ls
+  607  ls -l
+  608  cchc test.txt
+  609  cchc
+  610  wrap 1 2 3
+  611  wrap Pranav
+  612  wrap sd dsa asd ddf fff
+  613  clear
+  614  ls
+  615  madarmod test.txt
+  616  list
+  617  chadarmod test.txt
+  618  list
+  619  clear
+  620  list
+  621  vim ~/.bashrc
+  622  clear
+  623  list
+  624  ls
+  625  cd Documents
+  626  ls
+  627  cd sunbeamclasswork
+  628  cd dmc
+  629  ls
+  630  cd Day2cw
+  631  ls
+  632  ls anoe1.txt
+  633  cat anoe1.txt
+  634  ls -w
+  635  ls -W
+  636  ls -W 2
+  637  ls -W 2 > err.txt
+  638  ls -W 2> err.txt
+  639  cat err.txt
+  640  mkdir
+  641  mkdir>> err.txt
+  642  mkdir>>err.txt
+  643  cat err.txt
+  644  mkdir>err.txt
+  645  cat err.txt
+  646  rmdir 33> err.txt
+  647  ls
+  648  cat err.txt
+  649  ls -W 3> err.txt
+  650  ls -W 2> err.txt
+  651  mkdir 2>> err.txt
+  652  den 2>> err.txt
+  653  cat mouse.sh 2>> err.txt
+  654  cat err.txt
+  655  ls
+  656  cat anoe1.txt
+  657  sort -n anoe1.txt
+  658  sort -n anoe1.txt | uniq
+  659  echo "Hello World"
+  660  echo "Hello World" | tr "a-z" "A-Z"
+  661  echo "Hello World" | tr "A-Z" "a-z"
+  662  echo "tr909" | tr "9" "8"
+  663  echo "Hello Dmc Java Android Ios Hybrid" | cut -d " " -f1
+  664  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "a" -f1
+  665  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "a" -f1,2
+  666  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "a" -f2
+  667  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "a" -f4
+  668  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "o" -f4
+  669  echo "Hello Dmc Java Android Ios Hybrid" | cut -d "5" -f4
+  670  cat
+  671  nigga 2>> err.txt
+  672  cat err.txt
+  673  ls -i
+  674  ls -l -i
+  675  cd ..
+  676  ls
+  677  cd Day3cw
+  678  ls
+  679  vim ~/.vimrc
+  680  alias list ls
+  681  alias ls list
+  682  alias ls -l list
+  683  echo $SHELL
+  684  alais list ls
+  685  alias list ls
+  686  list
+  687  alias list `ls`
+  688  vim ~/.bashrc
+  689  list
+  690  ls
+  691  cd ..
+  692  ls
+  693  cd Documents/sunbeamclasswork
+  694  ls
+  695  cd Day3cw
+  696  list
+  697  rm -r test.txt
+  698  ls
+  699  vim shtemplate.sh
+  700  chadarmod shtemplate.sh
+  701  ls
+  702  cp shtemplate.sh dem1.sh
+  703  vim dem1.sh
+  704  ./dem1.sh
+  705  bash dem1.sh
+  706  cp shtemplate.sh dem2.sh
+  707  vim dem2.sh
+  708  ./dem2.sh
+  709  ls
+  710  cp shtemplate.sh dem3.sh
+  711  vim dem3.sh
+  712  ./dem3.sh
+  713  vim ra.txt
+  714  env
+  715  vim dem3.sh
+  716  ./dem3.sh
+  717  expr 10 + 20
+  718  expr 1 + 45 / 3 - 64 * 8
+  719  expr 1 + 45 / 3 - 64 \* 8
+  720  var=`expr 400 + 45 / 3 - 64 \* 82`
+  721  echo $var
+  722  ls
+  723  cp shtemplate.sh dem4.sh
+  724  vim dem4.sh
+  725  ./dem4.sh
+  726  vim dem4.sh
+  727  ./dem4.sh
+  728  vim dem4.sh
+  729  ls
+  730  cp shtemplate.sh dem5.sh
+  731  vim dem5.sh
+  732  ./dem5.sh
+  733  vim dem5.sh
+  734  bc
+  735  ./dem5.sh
+  736  vim dem5.sh
+  737  ./dem5.sh
+  738  cp shtemplate.sh dem6.sh
+  739  vim dem6.sh
+  740  vim dem5.sh
+  741  vim dem6.sh
+  742  ./dem6.sh
+  743  vim dem6.sh
+  744  ./dem6.sh
+  745  vim dem6.sh
+  746  ./dem6.sh
+  747  vim dem6.sh
+  748  ./dem6.sh
+  749  cp shtemplate.sh ex1.sh
+  750  vim ex1.sh
+  751  ./ex1.sh
+  752  vim ex1.sh
+  753  ./ex1.sh
+  754  vim ex1.sh
+  755  ./ex1.sh
+  756  vim ex1.sh
+  757  ./ex1.sh
+  758  vim ex1.sh
+  759  ./ex1.sh
+  760  vim ex1.sh
+  761  ./ex1.sh
+  762  ls
+  763  vim dem6.sh
+  764  ./dem6.sh
+  765  vim dem6.sh
+  766  ./dem6.sh
+  767  vim dem6.sh
+  768  ./dem6.sh
+  769  vim dem6.sh
+  770  ./dem6.sh
+  771  vim dem6.sh
+  772  ./dem6.sh
+  773  vim dem6.sh
+  774  ./dem6.sh
+  775  ls
+  776  cp shtemplate.sh dem6s.sh
+  777  ls
+  778  vim dem6s.sh
+  779  ./dem6s.sh
+  780  vim dem6s.sh
+  781  ./dem6s.sh
+  782  history > till6:59atsunbeam.txt
