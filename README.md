@@ -1,2 +1,3 @@
 # Practise-Shell-Scripts
-Consists of linux shell scripts and C programs which I wrote while practising 
+
+Shell Scripts and BASH Commands which are a must for practising and for interviews
